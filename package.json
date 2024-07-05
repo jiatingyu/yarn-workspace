@@ -1,0 +1,19 @@
+{
+  "name": "yarn-workspace",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "del" : "rimraf node_modules"
+  },
+  "dependencies": {
+    "cross-env": "^7.0.3"
+  },
+  "devDependencies": {
+    "rimraf": "^5.0.7"
+  }
+}

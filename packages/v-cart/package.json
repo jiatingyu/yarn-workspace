@@ -1,0 +1,13 @@
+{
+  "name": "v-cart",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "echo hello v-cart",
+    "del": "rimraf node_modules"
+  },
+  "dependencies": {
+    "lodash": "4"
+  }
+}
