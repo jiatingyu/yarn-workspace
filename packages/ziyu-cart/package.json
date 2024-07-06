@@ -1,6 +1,6 @@
 {
   "name": "ziyu-cart",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "lodash": "4",
-    "ziyu-user": "^0.0.2"
+    "ziyu-user": "^0.0.3"
   },
   "gitHead": "ad23fe31910a3183a80cd4fea91986474ae862b5"
 }
