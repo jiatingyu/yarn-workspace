@@ -1,6 +1,6 @@
 {
   "name": "v-cart",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
@@ -11,6 +11,6 @@
   },
   "dependencies": {
     "lodash": "4",
-    "v-user": "^0.0.1"
+    "v-user": "^0.0.2"
   }
 }
