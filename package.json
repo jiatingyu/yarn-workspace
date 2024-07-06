@@ -8,12 +8,13 @@
     "packages/*"
   ],
   "scripts": {
-    "del" : "rimraf node_modules"
+    "del": "rimraf node_modules"
   },
   "dependencies": {
     "cross-env": "^7.0.3"
   },
   "devDependencies": {
+    "lerna": "^8.1.6",
     "rimraf": "^5.0.7"
   }
 }

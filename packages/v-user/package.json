@@ -5,6 +5,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "echo hello v-user",
+    "build": "echo build v-user",
     "del": "rimraf node_modules"
   },
   "dependencies": {
