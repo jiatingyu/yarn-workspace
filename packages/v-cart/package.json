@@ -1,16 +1,16 @@
 {
   "name": "v-cart",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "license": "MIT",
   "scripts": {
     "dev": "echo hello v-cart",
     "build": "echo build v-cart",
-    "test":"node index.js",
+    "test": "node index.js",
     "del": "rimraf node_modules"
   },
   "dependencies": {
     "lodash": "4",
-    "v-user":"1.0.0"
+    "v-user": "^0.0.1"
   }
 }
